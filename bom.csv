@@ -1,0 +1,11 @@
+﻿Nome,Quantidade,Componente
+"U1",1," Arduino Uno R3"
+"R1, R3, R4, R5, R6, R8",6,"220 Ω Resistor"
+"D1, D8",2,"Amarelo LED"
+"D2",1,"RCBG LED RGB"
+"R2",1," Fotorresistor"
+"PIEZO1",1," Piezo"
+"R7, R9",2,"1 kΩ Resistor"
+"D4, D5",2,"Vermelho LED"
+"D7, D9",2,"Verde LED"
+"U2",1," Sensor de temperatura [TMP36]"
